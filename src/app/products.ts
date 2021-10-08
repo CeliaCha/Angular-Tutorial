@@ -9,7 +9,7 @@ export const products = [
   {
     id: 1,
     name: 'Phone XL',
-    price: 799,
+    price: 899,
     description: 'A large phone with one of the best screens'
   },
   {
